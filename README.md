@@ -24,3 +24,4 @@ Things you may want to cover:
 * ...
 
 1. Complete Ruby on Rails 
+2. Update to see it in Github
